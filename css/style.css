@@ -1,0 +1,61 @@
+.toggle-nav{
+	display: flex;
+		justify-content: space-between;
+}
+
+.navbar-header{
+	width: 65%
+}
+
+.cabecalho-nav .container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+#social-btns
+{
+	display: flex;
+}
+
+.container-fluid .navbar-header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.navbar-header{
+	display: flex;	
+	justify-content: space-between;
+}
+
+
+.sepirulita{
+	display: flex;
+}
+
+.footer .container{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+
+.sepirulita img
+{
+	margin-bottom: 5%;
+    margin-right: 3%;
+}
+
+
+#publicidade 
+{
+	display: flex;
+	justify-content: space-between;
+}
+
+
+#navi {
+    background-color: #3498DB;
+    background-image: linear-gradient(to bottom, #fff 0%, #f8f8f8 100%);
+    }
